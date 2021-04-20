@@ -1,0 +1,6 @@
+{
+    "jwtPrivateKey": "JWTPRIVATEKEY",
+    "db": "DBCONNSTRING",
+    "epaycoPublicKey": "KUVIDEPAYCOPUBLICKEY",
+    "epaycoPrivateKey": "KUVIDEPAYCOPRIVATEKEY"
+}

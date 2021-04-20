@@ -1,0 +1,9 @@
+{
+    "appURL": "https://www.ku-vid.com/",
+    "google": {
+        "serviceAccountKey": "D:\\Documentos\\Kuvid\\Project\\kuvid_api\\services\\googleServiceAccountKey.json"
+    },
+    "firebase": {
+        "serviceAccount": "D:\\Documentos\\Kuvid\\Project\\kuvid_api\\services\\firebaseServiceAccountKey.json"
+    }
+}
